@@ -1,2 +1,2 @@
 # SnoopySkills
-Welcome to submit improvement suggestions！
+My skills.
